@@ -15,3 +15,16 @@ a {
     display: block;
     padding: 5px;
 }
+h1 {
+    background-color: #fff;
+    padding: 5px;
+    text-align: center;
+}
+ul {
+    background-color: #fff;
+    padding: 5px;
+    list-style-type: none;
+}
+li {
+    background-color: white;
+}
